@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hazard
+  - Water
+  - UI
+  - Player
+  - Trap
+  - Player2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 459200269
+    locked: 0
+  - name: Ground
+    uniqueID: 654907569
+    locked: 0
+  - name: Hazards
+    uniqueID: 3565333809
+    locked: 0
+  - name: Player
+    uniqueID: 1059929373
+    locked: 0
+  - name: UI
+    uniqueID: 3570950923
+    locked: 0
